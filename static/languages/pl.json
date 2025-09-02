@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak wysokie jest zużycie nawozów mineralnych w UE?",
+  "subtitle": "W 2023 roku w produkcji rolnej w całej UE wykorzystano 9,3 mln ton nawozów mineralnych (azotowych i fosforowych). Stanowi to skumulowany spadek o 20,5% w porównaniu z rokiem 2017.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Brak danych dla Malty i Cypru. Dane dla Luksemburga: 267,7 mln ton. Nawozy azotowe i fosforowe znacznie zwiększają plony, ale ich nadmierne stosowanie może prowadzić do wypłukiwania składników odżywczych do środowiska, przyczyniając się do jego zanieczyszczenia.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "milionów ton"
 }
