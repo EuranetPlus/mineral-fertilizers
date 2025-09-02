@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto è elevato il consumo di fertilizzanti minerali nell'UE?",
+  "subtitle": "Nel 2023, 9,3 milioni di tonnellate di fertilizzanti minerali (azoto e fosforo) sono stati utilizzati nella produzione agricola in tutta l'UE. Ciò rappresenta un calo cumulativo del 20,5% rispetto al 2017.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Nessun dato disponibile per Malta e Cipro. Dati per il Lussemburgo: 267,7 milioni di tonnellate. I fertilizzanti a base di azoto e fosforo migliorano notevolmente la produzione agricola, ma un uso eccessivo può portare alla lisciviazione dei nutrienti nell'ambiente, contribuendo all'inquinamento ambientale.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "milioni di tonnellate"
 }
