@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh hard is atá an tomhaltas leasachán mianrach san AE?",
+  "subtitle": "Sa bhliain 2023, úsáideadh 9.3 milliún tonna leasacháin mianracha (nítrigin agus fosfar) i dtáirgeadh talmhaíochta ar fud an AE. Léiríonn sé seo laghdú carnach 20.5% ó 2017.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Níl aon sonraí ar fáil do Mhálta ná do Chipir. Sonraí do Lucsamburg 267.7 milliún t. Feabhsaíonn leasacháin nítrigine agus fosfair táirgeadh barr go mór, ach d’fhéadfadh úsáid iomarcach cothaithigh a sceitheadh isteach sa chomhshaol, rud a chuireann le truailliú comhshaoil.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "milliún tonna"
 }
