@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon mineraalilannoitteita kulutetaan EU:ssa?",
+  "subtitle": "Vuonna 2023 EU:n maataloustuotannossa käytettiin 9,3 miljoonaa tonnia mineraalilannoitteita (typpeä ja fosforia). Tämä on 20,5 prosentin kumulatiivinen lasku vuoteen 2017 verrattuna.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Maltan ja Kyproksen tietoja ei ole saatavilla. Luxemburgin tiedot 267,7 miljoonaa tonnia. Typpi- ja fosforilannoitteet lisäävät huomattavasti satoa, mutta niiden liiallinen käyttö voi johtaa ravinteiden huuhtoutumiseen ympäristöön ja siten ympäristön saastumiseen.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "miljoonaa tonnia"
 }
