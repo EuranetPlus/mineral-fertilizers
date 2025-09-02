@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est l’ampleur de la consommation d’engrais minéraux dans l’UE ?",
+  "subtitle": "En 2023, 9,3 millions de tonnes d'engrais minéraux (azote et phosphore) ont été utilisées dans la production agricole de l'UE. Cela représente une baisse cumulée de 20,5 % par rapport à 2017.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Aucune donnée disponible pour Malte et Chypre. Données pour le Luxembourg 267,7 millions de tonnes. Les engrais azotés et phosphorés améliorent considérablement la production agricole, mais une utilisation excessive peut entraîner une lixiviation des nutriments dans l'environnement, contribuant ainsi à la pollution environnementale.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "millions de tonnes"
 }
