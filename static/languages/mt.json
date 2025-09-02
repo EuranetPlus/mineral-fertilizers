@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hu għoli l-konsum ta' fertilizzanti minerali fl-UE?",
+  "subtitle": "Fl-2023, intużaw 9.3 miljun tunnellata ta’ fertilizzanti minerali (nitroġenu u fosfru) fil-produzzjoni agrikola madwar l-UE. Dan jirrappreżenta tnaqqis kumulattiv ta’ 20.5% mill-2017.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "M'hemm l-ebda dejta disponibbli għal Malta u Ċipru. Dejta għal-Lussemburgu 267.7 miljun tunnellata. Il-fertilizzanti tan-nitroġenu u tal-fosfru jtejbu ħafna l-produzzjoni tal-għelejjel, iżda l-użu eċċessiv jista' jwassal għal tniġġis tan-nutrijenti fl-ambjent, u dan jikkontribwixxi għat-tniġġis ambjentali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "miljun tunnellata"
 }
