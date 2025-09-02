@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Koks yra mineralinių trąšų suvartojimo lygis ES?",
+  "subtitle": "2023 m. visoje ES žemės ūkio gamyboje buvo sunaudota 9,3 mln. tonų mineralinių trąšų (azoto ir fosforo). Tai reiškia, kad bendras sunaudojimas, palyginti su 2017 m., sumažėjo 20,5 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Duomenų apie Maltą ir Kiprą nėra. Liuksemburgo duomenys – 267,7 mln. t. Azoto ir fosforo trąšos labai padidina pasėlių derlių, tačiau per didelis jų naudojimas gali lemti maistinių medžiagų išplovimą į aplinką ir aplinkos taršą.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "milijonai tonų"
 }
