@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mare este consumul de îngrășăminte minerale în UE?",
+  "subtitle": "În 2023, în producția agricolă din UE s-au utilizat 9,3 milioane de tone de îngrășăminte minerale (azot și fosfor). Aceasta reprezintă o scădere cumulată de 20,5% față de 2017.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Nu sunt disponibile date pentru Malta și Cipru. Date pentru Luxemburg 267,7 milioane de tone. Îngrășămintele cu azot și fosfor sporesc considerabil producția culturilor, dar utilizarea excesivă poate duce la scurgerea nutrienților în mediu, contribuind la poluarea mediului.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
-  "tooltipExtraInfoLabel": "Click aici"
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "milioane de tone"
 }
