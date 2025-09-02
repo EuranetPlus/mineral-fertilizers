@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako visoka je poraba mineralnih gnojil v EU?",
+  "subtitle": "Leta 2023 je bilo v kmetijski proizvodnji po vsej EU porabljenih 9,3 milijona ton mineralnih gnojil (dušika in fosforja). To predstavlja kumulativno zmanjšanje za 20,5 % v primerjavi z letom 2017.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Za Malto in Ciper ni podatkov. Podatki za Luksemburg 267,7 milijona ton. Dušikova in fosforjeva gnojila močno izboljšajo pridelavo poljščin, vendar lahko prekomerna uporaba povzroči izpiranje hranil v okolje, kar prispeva k onesnaževanju okolja.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "milijon ton"
 }
