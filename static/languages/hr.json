@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Kolika je potrošnja mineralnih gnojiva u EU?",
+  "subtitle": "U 2023. godini u poljoprivrednoj proizvodnji diljem EU-a korišteno je 9,3 milijuna tona mineralnih gnojiva (dušika i fosfora). To predstavlja kumulativni pad od 20,5 % u odnosu na 2017. godinu.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Nema dostupnih podataka za Maltu i Cipar. Podaci za Luksemburg 267,7 milijuna t. Dušična i fosforna gnojiva uvelike poboljšavaju proizvodnju usjeva, ali prekomjerna upotreba može dovesti do ispiranja hranjivih tvari u okoliš, što doprinosi onečišćenju okoliša.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "milijuna tona"
 }
