@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik liels ir minerālmēslu patēriņš ES?",
+  "subtitle": "2023. gadā visā ES lauksaimnieciskajā ražošanā tika izmantoti 9,3 miljoni tonnu minerālmēslu (slāpekļa un fosfora). Tas ir kumulatīvs samazinājums par 20,5 % salīdzinājumā ar 2017. gadu.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati par Maltu un Kipru nav pieejami. Dati par Luksemburgu — 267,7 miljoni t. Slāpekļa un fosfora mēslošanas līdzekļi ievērojami palielina kultūraugu ražu, taču pārmērīga to lietošana var izraisīt barības vielu izskalošanos vidē, veicinot vides piesārņojumu.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "miljons tonnu"
 }
