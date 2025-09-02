@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak vysoká je spotřeba minerálních hnojiv v EU?",
+  "subtitle": "V roce 2023 bylo v zemědělské produkci v celé EU použito 9,3 milionu tun minerálních hnojiv (dusíku a fosforu). To představuje kumulativní pokles o 20,5 % oproti roku 2017.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Pro Maltu a Kypr nejsou k dispozici žádné údaje. Údaje pro Lucembursko: 267,7 milionu tun. Dusíkatá a fosforečná hnojiva výrazně zvyšují produkci plodin, ale nadměrné používání může vést k uvolňování živin do životního prostředí, což přispívá ke znečištění životního prostředí.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "milionů tun"
 }
