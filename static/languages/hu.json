@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mekkora az ásványi műtrágyák fogyasztása az EU-ban?",
+  "subtitle": "2023-ban az EU-ban 9,3 millió tonna ásványi műtrágyát (nitrogént és foszfort) használtak fel mezőgazdasági termelésben. Ez 20,5%-os összesített csökkenést jelent 2017-hez képest.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Máltára és Ciprusra vonatkozóan nem állnak rendelkezésre adatok. Luxemburgra vonatkozó adatok 267,7 millió tonna. A nitrogén- és foszforműtrágyák nagymértékben fokozzák a növénytermesztést, de túlzott használatuk tápanyagok kimosódásához vezethet a környezetbe, ami hozzájárul a környezetszennyezéshez.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "millió tonna"
 }
