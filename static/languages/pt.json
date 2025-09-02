@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual é o consumo de fertilizantes minerais na UE?",
+  "subtitle": "Em 2023, 9,3 milhões de toneladas de fertilizantes minerais (nitrogênio e fósforo) foram utilizadas na produção agrícola em toda a UE. Isso representa uma queda acumulada de 20,5% em relação a 2017.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Não há dados disponíveis para Malta e Chipre. Dados para Luxemburgo: 267,7 milhões de toneladas. Fertilizantes de nitrogênio e fósforo aumentam significativamente a produção agrícola, mas o uso excessivo pode levar à lixiviação de nutrientes para o meio ambiente, contribuindo para a poluição ambiental.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "legend1": "Nenhum dado disponível",
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "milhões de toneladas"
 }
