@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe hoog is het verbruik van minerale meststoffen in de EU?",
+  "subtitle": "In 2023 werd in de EU 9,3 miljoen ton minerale meststoffen (stikstof en fosfor) gebruikt in de landbouwproductie. Dit is een cumulatieve daling van 20,5% ten opzichte van 2017.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Geen gegevens beschikbaar voor Malta en Cyprus. Gegevens voor Luxemburg: 267,7 miljoen ton. Stikstof- en fosformeststoffen verbeteren de gewasproductie aanzienlijk, maar overmatig gebruik kan leiden tot uitspoeling van nutriënten in het milieu, wat bijdraagt aan milieuvervuiling.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "miljoen ton"
 }
